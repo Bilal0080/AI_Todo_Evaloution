@@ -1,0 +1,8 @@
+{
+  "name": "Hackathon AI-Todo Evolution",
+  "description": "A 5-phase progressive Todo application that evolves from a basic list to an AI-driven project manager powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
